@@ -1,4 +1,7 @@
-# test coverage for  [deep-extend (v0.4.1)](https://github.com/unclechu/node-deep-extend)  [![npm package](https://img.shields.io/npm/v/npmtest-deep-extend.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-deep-extend) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-deep-extend.svg)](https://travis-ci.org/npmtest/node-npmtest-deep-extend)
+# npmtest-deep-extend
+
+#### basic test coverage for  [deep-extend (v0.4.1)](https://github.com/unclechu/node-deep-extend)  [![npm package](https://img.shields.io/npm/v/npmtest-deep-extend.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-deep-extend) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-deep-extend.svg)](https://travis-ci.org/npmtest/node-npmtest-deep-extend)
+
 #### Recursive object extending
 
 [![NPM](https://nodei.co/npm/deep-extend.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/deep-extend)
@@ -104,7 +107,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.4.1"
+    "version": "0.4.1",
+    "bin": {}
 }
 ```
 
